@@ -2,7 +2,7 @@
 
 ## For ACM
 
-Fork this repository on GitHub, but DO NOT COPY.
+Fork this repository on GitHub, but DO NOT copy my work.
 
 ## Bugs and Issues
 
